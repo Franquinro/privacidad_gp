@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Política de privacidad de la Calculadora de divisiones</title>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css" integrity="sha384-OgVRvuATP1z7JjHLkuOU7Xw704+h835Lr+6QL9UvYjZE3Ipu6Tp75j7Bh/kR0Hp" crossorigin="anonymous">
+  </head>
+  <body>
+    <div class="container">
+      <h1 class="text-center">Política de privacidad de la Calculadora de divisiones</h1>
+      <p>Agradecemos su interés en nuestra aplicación educativa "Calculadora de divisiones". En esta política de privacidad, describimos cómo recopilamos, usamos y compartimos información sobre usted cuando utiliza nuestra aplicación. Al descargar, instalar y utilizar nuestra aplicación, acepta esta política de privacidad.</p>
+      <h3>1. Información que recopilamos</h3>
+      <p>No recopilamos ningún tipo de información personal del usuario. La aplicación no solicita ni requiere que los usuarios proporcionen información personal, como nombres, direcciones de correo electrónico o información de contacto. La aplicación solo recopila información no identificable, como información sobre el dispositivo, el sistema operativo y el uso de la aplicación.</p>
+      <h3>2. Uso de la información</h3>
+      <p>La información que recopilamos se utiliza únicamente para mejorar y optimizar la aplicación, y para fines estadísticos. No compartimos ni vendemos información a terceros. La información recopilada se utiliza únicamente para fines internos de análisis y mejora de la aplicación.</p>
+      <h3>3. Anuncios</h3>
+      <p>La aplicación está monetizada con anuncios que son proporcionados por proveedores de servicios publicitarios de terceros. Estos anuncios pueden estar dirigidos en función de la ubicación del usuario y el uso de la aplicación, pero no recopilamos ni compartimos información personal con los proveedores de servicios publicitarios.</p>
+      <h3>4. Cambios a esta política de privacidad</h3>
+      <p>Nos reservamos el derecho de actualizar esta política de privacidad en cualquier momento. La versión actualizada de la política de privacidad estará disponible en la página de descripción de la aplicación en Google Play. Le recomendamos que revise esta política de privacidad periódicamente para estar al tanto de cualquier cambio.</p>
+      <h3>5. Contacto</h3>
+      <p>Si tiene preguntas o inquietudes sobre nuestra política de privacidad, puede comunicarse con nosotros en cualquier momento a través del correo electrónico proporcionado en la página de descripción de la aplicación en Google Play.</p>
+      <p>Esta política de privacidad entra en vigencia a partir del 19 de abril de 2023.</p>
+    </div>
+  </body>
+</html>
